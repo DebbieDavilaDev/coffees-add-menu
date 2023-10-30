@@ -1,0 +1,24 @@
+.coffee-list {
+  background-color: burlywood;
+  border-radius: 12px;
+  padding: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+
+
+}
+.coffee-card {
+    width: 240px;
+    padding: 1em;
+    background-color: rgb(95, 4543, 4);
+    color: burlywood;
+    border-radius: calc(12px - 1em);
+    margin: 1em;
+    
+
+
+}
