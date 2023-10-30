@@ -46,7 +46,7 @@ export default function AddCoffee({setCoffees}) {
         </label>
 
         <label htmlFor="recipe">
-          Name:
+          Recipe:
           <input type="text" name="recipe" />
         </label>
 
