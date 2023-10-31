@@ -10,6 +10,8 @@ export default function AddCoffee({setCoffees}) {
           .catch(alert)
     }
 
+   
+    
     useEffect(() => {
         getCoffees()
     },[]) // one time, after the component mounts, get the coffees
